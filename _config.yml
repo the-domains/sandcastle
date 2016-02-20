@@ -1,7 +1,7 @@
 name: SandCastle
 favicon: null
-layout_spectrum: 0.838415049482137
-typography_spectrum: 0.38043049769476056
+layout_spectrum: 0.1964
+typography_spectrum: 0.39029
 cta:
   domain: null
   bucket: null
@@ -21,7 +21,7 @@ color:
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
-  brandStrength: 0.5912339498754591
+  brandStrength: 0.5625
   lightness: 0.6938826888799667
   saturation: 0.4007130484096706
   rhythmicContrast: 0.3866688183043152
